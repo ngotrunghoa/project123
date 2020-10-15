@@ -74,3 +74,4 @@ public class WebScraper {
 	}
 	
 }
+//file.setReadOnly();
